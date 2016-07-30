@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Currency Project</string>
+
+    <integer name="index_name">0</integer>
+    <integer name="index_symbol">1</integer>
+
+    <string-array name="base">
+        <item>USD</item>
+    </string-array>
+
+    <string-array name="target">
+        <item>AUD,402</item>
+        <item>THB",402</item>
+        <item>INR",-1</item>
+    </string-array>
+
+</resources>
